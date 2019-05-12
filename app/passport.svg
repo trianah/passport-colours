@@ -1,0 +1,110 @@
+<svg
+          id="Layer_1"
+          data-name="Layer 1"
+          xmlns="http://www.w3.org/2000/svg"
+          viewbox="0 0 373 592.77"
+        >
+          <title>travel-passport</title>
+          <g>
+            <path
+              fill="rgb(44,48,58)"
+              stroke="#ffffff"
+              stroke-width="5px"
+              stroke-miterlimit="10"
+              d="M34,99.41h74.12L270.59,48.27c11.4-3.63,20.64,2.67,20.64,14.07V99.41h30.94V24.5c0-13.49-10.93-20.94-24.42-16.64l-263,83c-9.75,3.11-18.16,11.5-22.08,21A24.41,24.41,0,0,1,34,99.41Z"
+              transform="translate(-7.04 -4.15)"
+            ></path>
+            <path
+              fill="rgb(44,48,58)"
+              stroke="#ffffff"
+              stroke-width="5px"
+              stroke-miterlimit="10"
+              d="M270.59,48.27,108.08,99.41H291.23V62.33C291.23,50.93,282,44.63,270.59,48.27Z"
+              transform="translate(-7.04 -4.15)"
+            ></path>
+            <path
+              fill="rgb(44,48,58)"
+              stroke="#ffffff"
+              stroke-width="5px"
+              stroke-miterlimit="10"
+              d="M353.11,99.41H34A24.43,24.43,0,0,0,9.54,123.83V570A24.43,24.43,0,0,0,34,594.41H353.11A24.43,24.43,0,0,0,377.53,570V123.83A24.43,24.43,0,0,0,353.11,99.41ZM318.77,321.64a125.2,125.2,0,1,1-125.2-125.2A125.34,125.34,0,0,1,318.77,321.64Zm25.07,205.2c0,7.19-5.83,13-9.77,15.47H63.77c-10.45-2.44-16.28-8.27-16.28-15.47v-30.7a13,13,0,0,1,13-13h270.3a13,13,0,0,1,13,13Z"
+              transform="translate(-7.04 -4.15)"
+            ></path>
+            <path
+              fill="rgb(44,48,58)"
+              stroke="#ffffff"
+              stroke-width="5px"
+              stroke-miterlimit="10"
+              d="M68.37,321.64a125.2,125.2,0,1,0,125.2-125.2A125.34,125.34,0,0,0,68.37,321.64Z"
+              transform="translate(-7.04 -4.15)"
+            ></path>
+            <path
+              fill="rgb(44,48,58)"
+              stroke="#ffffff"
+              stroke-width="5px"
+              stroke-miterlimit="10"
+              d="M330.82,483.11H60.52a13,13,0,0,0-13,13v30.7c0,7.19,5.83,13,16.28,15.47h270.3c3.94-2.44,9.77-8.27,9.77-15.47v-30.7A13,13,0,0,0,330.82,483.11Z"
+              transform="translate(-7.04 -4.15)"
+            ></path>
+            <path
+              fill="rgb(44,48,58)"
+              stroke="#ffffff"
+              stroke-width="5px"
+              stroke-miterlimit="10"
+              d="M163.6,199.82c-54,64.87-51.51,182.77.29,243.6"
+              transform="translate(-7.04 -4.15)"
+            ></path>
+            <path
+              fill="rgb(44,48,58)"
+              stroke="#ffffff"
+              stroke-width="5px"
+              stroke-miterlimit="10"
+              d="M222.37,199.82c54,64.87,51.51,182.77-.29,243.6"
+              transform="translate(-7.04 -4.15)"
+            ></path>
+          </g>
+          <path
+            fill="rgb(44,48,58)"
+            stroke="#ffffff"
+            stroke-width="5px"
+            stroke-miterlimit="10"
+            x1="75.05"
+            y1="260.54"
+            x2="296.38"
+            y2="260.54"
+            d="M75.05,260.54L296.38,260.54"
+          ></path>
+          <path
+            fill="rgb(44,48,58)"
+            stroke="#ffffff"
+            stroke-width="5px"
+            stroke-miterlimit="10"
+            x1="61.33"
+            y1="317.49"
+            x2="311.6"
+            y2="317.49"
+            d="M61.33,317.49L311.6,317.49"
+          ></path>
+          <path
+            fill="rgb(44,48,58)"
+            stroke="#ffffff"
+            stroke-width="5px"
+            stroke-miterlimit="10"
+            x1="77.2"
+            y1="378.44"
+            x2="294.26"
+            y2="378.44"
+            d="M77.2,378.44L294.26,378.44"
+          ></path>
+          <path
+            fill="rgb(44,48,58)"
+            stroke="#ffffff"
+            stroke-width="5px"
+            stroke-miterlimit="10"
+            x1="186.53"
+            y1="192.29"
+            x2="186.53"
+            y2="442.22"
+            d="M186.53,192.29L186.53,442.22"
+          ></path>
+        </svg>

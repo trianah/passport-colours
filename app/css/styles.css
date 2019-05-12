@@ -1,0 +1,19 @@
+svg {
+  width: 100px; }
+
+h2 {
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  max-width: 8em; }
+
+.passport-wrap {
+  position: relative;
+  display: inline-block; }
+
+#passports-container {
+  display: flex;
+  flex-wrap: wrap; }
+
+svg.icon {
+  fill: currentColor; }
