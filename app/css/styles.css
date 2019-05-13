@@ -17,3 +17,6 @@ h2 {
 
 svg.icon {
   fill: currentColor; }
+
+.hidden {
+  display: none; }

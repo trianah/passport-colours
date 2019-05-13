@@ -1,39 +1,43 @@
 svg {
-  width: 100px;
-  //border: 1px solid red;
+	width: 100px;
+	//border: 1px solid red;
 }
 
 h2 {
-  font-family: sans-serif;
-  font-weight: normal;
-  font-size: 16px;
-  max-width: 8em;
-  // color: white;
-  // position: absolute;
-  // top: 254px;
-  // left: 30px;
-  // max-width: 142px;
-  // text-align: center;
-  // width: 100%;
+	font-family: sans-serif;
+	font-weight: normal;
+	font-size: 16px;
+	max-width: 8em;
+	// color: white;
+	// position: absolute;
+	// top: 254px;
+	// left: 30px;
+	// max-width: 142px;
+	// text-align: center;
+	// width: 100%;
 }
 
 .passport-wrap {
-  position: relative;
-  display: inline-block;
+	position: relative;
+	display: inline-block;
 }
 
 #passports-container {
-  //border: 2px dashed salmon;
-  display: flex;
-  flex-wrap: wrap;
+	//border: 2px dashed salmon;
+	display: flex;
+	flex-wrap: wrap;
 
-  & > * {
-    //width: 10%;
-    //border: 1px dashed yellowgreen;
-  }
+	& > * {
+		//width: 10%;
+		//border: 1px dashed yellowgreen;
+	}
 }
 
 svg.icon {
-  fill: currentColor;
-  //margin-bottom: 3em;
+	fill: currentColor;
+	//margin-bottom: 3em;
+}
+
+.hidden {
+	display: none;
 }
