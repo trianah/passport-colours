@@ -5,12 +5,15 @@
     <title>Passport Colours</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://fonts.googleapis.com/css?family=Libre+Franklin" rel="stylesheet">
+
     <!--build:css css/styles.min.css -->
     <link rel="stylesheet" href="/css/styles.css" />
     <!-- endbuild -->
   </head>
 
   <body>
+  <main>
     <!--[if IE]>
       <p class="browserupgrade">
         You are using an <strong>outdated</strong> browser. Please
@@ -21,15 +24,15 @@
 
     <fieldset id="filter">
       <legend>Filter by colour</legend>
-      <div>
+      <div class="filter-option-wrap">
         <input data-filter-option type="checkbox" id="red" name="colour" value="red">
         <label for="red">Red</label>
       </div>
-      <div>
+      <div class="filter-option-wrap">
         <input data-filter-option type="checkbox" id="green" name="colour" value="green">
         <label for="green">Green</label>
       </div>
-      <div>
+      <div class="filter-option-wrap">
         <input data-filter-option type="checkbox" id="blue" name="colour" value="blue">
         <label for="blue">Blue</label>
       </div>
@@ -44,6 +47,7 @@
     <div id="passports-container">
       <!-- add passports here -->
     </div>
+    </main>
 
     <!-- <script src="js/vendor/modernizr-{{ MODERNIZR_VERSION }}.min.js"></script>
     <script

@@ -1,11 +1,21 @@
 svg {
-  width: 100px; }
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+html {
+  font-family: 'Libre Franklin', sans-serif; }
+
+main {
+  border: 1px solid green;
+  max-width: 120rem;
+  margin-left: auto;
+  margin-right: auto; }
 
 h2 {
-  font-family: sans-serif;
-  font-weight: normal;
   font-size: 16px;
-  max-width: 8em; }
+  text-align: center; }
 
 .passport-wrap {
   position: relative;
@@ -13,10 +23,19 @@ h2 {
 
 #passports-container {
   display: flex;
-  flex-wrap: wrap; }
+  flex-wrap: wrap;
+  justify-content: center; }
+  #passports-container > * {
+    width: 200px;
+    padding: 1rem; }
 
 svg.icon {
   fill: currentColor; }
 
 .hidden {
   display: none; }
+
+.filter-option-wrap {
+  display: inline-flex; }
+  .filter-option-wrap + .filter-option-wrap {
+    margin-left: 1rem; }

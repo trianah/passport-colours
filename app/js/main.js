@@ -21,7 +21,7 @@ d3.csv('data/colors.csv', function(d, i) {
 	item.attr(`data-colour-${data[i].colour}`, '')
 
 	item.attr('data-passport', '')
-	item.append('h2').text(data[i].country)
+
 	item
 		.append('svg')
 		.attr('class', 'icon')
@@ -31,6 +31,8 @@ d3.csv('data/colors.csv', function(d, i) {
 		)
 		.append('use')
 		.attr('xlink:href', '#passport')
+
+	item.append('h2').text(data[i].country)
 })
 
 function toRgb(val) {

@@ -1,19 +1,32 @@
 svg {
 	width: 100px;
 	//border: 1px solid red;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+html {
+	font-family: 'Libre Franklin', sans-serif;
+}
+
+main {
+	border: 1px solid green;
+	max-width: 120rem;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 h2 {
-	font-family: sans-serif;
-	font-weight: normal;
+	//font-weight: normal;
 	font-size: 16px;
-	max-width: 8em;
+	//max-width: 8em;
 	// color: white;
 	// position: absolute;
 	// top: 254px;
 	// left: 30px;
 	// max-width: 142px;
-	// text-align: center;
+	text-align: center;
 	// width: 100%;
 }
 
@@ -26,10 +39,12 @@ h2 {
 	//border: 2px dashed salmon;
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: center;
 
 	& > * {
-		//width: 10%;
+		width: 200px;
 		//border: 1px dashed yellowgreen;
+		padding: 1rem;
 	}
 }
 
@@ -40,4 +55,12 @@ svg.icon {
 
 .hidden {
 	display: none;
+}
+
+.filter-option-wrap {
+	display: inline-flex;
+
+	& + & {
+		margin-left: 1rem;
+	}
 }
